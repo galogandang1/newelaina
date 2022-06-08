@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="YUU SENPAI MULTI BOT" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -67,21 +67,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeone-ofc.github.io/"
-global.email = "zeeoneofc@gmail.com"
-global.region = "Indonesia"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
-global.thumbnail = "./image/lol.jpg"
-global.donasi = "./image/donasi.jpg"
+global.botname = "*Yuu | Bot*" //namabot kalian
+global.ownername= "Yuu?" //nama kalian
+global.myweb ="https://instagram.com/yudis.tra1" //bebas asal jan hapus
+global.youtube = "youtube.com" //bebas asal jan hapus
+global.github = "https://github.com/galogandang1" //bebas
+global.email = "tzyudistira@gmail.com" //bebas
+global.region = "Indonesia" //bebas
+global.ownernomer = "6281370040608" // nomor wa kalian
+global.ownernomerr = "+6283111152208" //nmr wa kalian
+global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.owner = ["6285921165857","6285921165857","6285657452524"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Yuu Senpai Multi Device' //sticker wm ubah
+global.author = '*Created Yuu Senpai*' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 ```
 
